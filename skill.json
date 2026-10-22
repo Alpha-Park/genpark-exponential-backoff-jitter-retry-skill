@@ -1,0 +1,10 @@
+{
+  "name": "genpark-exponential-backoff-jitter-retry-skill",
+  "version": "1.0.1",
+  "description": "Enterprise retry engine with full jitter, decorrelated jitter, and truncated exponential backoff for LLM rate limits",
+  "tools": [
+    "calculate_retry_delay",
+    "simulate_retry_schedule",
+    "should_retry"
+  ]
+}
